@@ -2,4 +2,4 @@
 
 ##Question 1
 
-Run main.py
+>Ubuntu : python main.py
