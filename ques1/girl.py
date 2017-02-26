@@ -9,10 +9,4 @@ class Girl:
 		self.gtypes=gtypes
 		self.gstatus=False
 		self.bf=''
-	def ellig_check(self,bbudget):
-		if(self.gstatus==True):
-			return False
-		if(self.gbudget<=bbudget):
-			return True
-		else:
-			return False
+
