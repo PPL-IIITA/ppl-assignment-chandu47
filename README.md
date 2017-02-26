@@ -6,6 +6,7 @@ ppl-assignment-chandu47 created by GitHub Classroom
 >Ubuntu 16.04 LTS 
 
 >OS Type:64 bit
+
 ##Tools Used
 >Pydoc
 
