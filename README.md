@@ -12,6 +12,6 @@ ppl-assignment-chandu47 created by GitHub Classroom
 
 >Genmymodel.com
 
-###Documentation and class diagrams in Question folders
+###Documentation and class diagram in respective question folders
 
 
