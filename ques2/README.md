@@ -1,2 +1,5 @@
 # ppl-assignment-IIT2015030
-Run main.py
+
+##Question 2
+
+>Ubuntu:python main.py
