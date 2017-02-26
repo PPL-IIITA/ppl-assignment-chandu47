@@ -10,15 +10,4 @@ class Boy:
 		self.battractReq=battractReq
 		self.bstatus=False
 		self.gf=''
-	def ellig_check(self,minBudget,gfAttract):
-		if(self.bstatus==True):
-			return False
-		if(self.battractReq<=gfAttract and self.bbudget>=minBudget):
-			return True
 
-		else:
-			if(self.battractReq>gfAttract):
-				print (self.bname+'not attractive\n')
-			elif(self.bbudget<minBudget):
-				print 'costly\n'
-			return False
