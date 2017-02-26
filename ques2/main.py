@@ -236,10 +236,10 @@ def print_rank(C, k):
 	B = sorted(C, key=lambda item: item.compatibility, reverse=True)
 	print str(k) + ' most Happy couples:'
 	for i in range(k):
-		print A[i].bobj.bname + ' and ' + A[i].gobj.gname +' happiness '+str(int(A[i].happiness))+'\n'
+		print A[i].bobj.bname + ' and ' + A[i].gobj.gname
 
 	print '\n' + str(k) + ' most Compatible couples:'
 	for i in range(k):
-		print B[i].bobj.bname + ' and ' + B[i].gobj.gname+' compatibility '+str(int(B[i].compatibility))+'\n'
+		print B[i].bobj.bname + ' and ' + B[i].gobj.gname
 create()
 matchMaker()
