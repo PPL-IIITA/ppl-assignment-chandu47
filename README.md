@@ -1,15 +1,15 @@
-#PPLAssignment
+# PPLAssignment
 
-#project made by V Chandra Kant(IIT2015030) in git-classroom
+# project made by V Chandra Kant(IIT2015030) in git-classroom
 
-##System Build
+## System Build
 
 ubuntu 16.04 Gnome
 OS-64-bit
-##prerequisites
+## prerequisites
 
 python-2.7.12
-##Tools Used
+## Tools Used
 
 python - 2.7.12
 pydoc
